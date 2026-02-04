@@ -28,5 +28,5 @@ A Node.js/Express microservice for electronics e-commerce platforms targeting Ti
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+ git clone  https://github.com/umadevi-12/Project-Structure.git 
 cd ecommerce-search-service
